@@ -3,7 +3,7 @@
         "id":1,
         "name": "Silver Heart Shaped Cubic Zircon Pendant April Birthstone Necklace ",
         "price" :30939,
-        "image": "/Pic/silver heart.jpg"
+        "image": "./Pic/silver heart.jpg"
     },
     {
         "id":2,
