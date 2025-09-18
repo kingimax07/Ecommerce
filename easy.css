@@ -229,11 +229,17 @@ gap: 10px;
 text-align: center;
 align-items: center;
 };
+.incre{
+
+}
+.decre{
+
+}
 .quantity span{
 display: inline-block;
-width: 25px;
-height: 25px;
-background-color:rgb(255, 166, 0) ;
+width: 20px;
+height: 20px;
+background-color:rgb(138, 138, 138) ;
 color: black;
 border-radius: 50%;
 cursor: pointer;
